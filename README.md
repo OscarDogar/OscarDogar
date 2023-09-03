@@ -28,6 +28,6 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=oscardogar&theme=dark" alt="oscardogar" /></p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=oscardogar" alt="oscardogar" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=oscardogar&theme=darkhub" alt="oscardogar" /></a> </p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=oscardogar&label=count&color=5eb0e4&style=flat" alt="oscardogar" /> </p>
