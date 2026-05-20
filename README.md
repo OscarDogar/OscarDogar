@@ -26,10 +26,14 @@
 
 # 👨‍💻 About Me
 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/OscarDogar/github-stats-terminal-style/refs/heads/master/github_stats.svg" style="max-width: 100%;" align="middle" alt="Github Stats Terminal Style">
+</p>
+
 ```yaml
 Name: Oscar Dogar
 Role: Full Stack Developer
-Experience: 4+ Years
+Experience: 5+ Years
 Specialization:
   - Backend Development
   - Cloud Infrastructure
@@ -228,5 +232,9 @@ Currently Learning:
 <div align="center">
 
 ### 💡 “Building scalable solutions one commit at a time.”
-
+<p align="">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=60&section=footer"/>
+</p>
 </div>
+
+
